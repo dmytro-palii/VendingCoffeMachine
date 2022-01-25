@@ -1,7 +1,3 @@
-class CreditCard:
-    def __init__(self, card_number: int, card_cvs_number: int):
-        self.card_number = card_number
-        self.card_cvs_number = card_cvs_number
 
 class VendingMachine:
     credit_card_data = {123321: 123}
